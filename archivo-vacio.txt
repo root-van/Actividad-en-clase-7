@@ -1,20 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of f45c3fa (Revert "Actividad 7")
 Esto es el primer commit.....
 Esto es el segundo commit....
 Ivan estuvo aqui
 Ivan estuvo aqui x2
 holii, Karen estuvo aqui. 
 Karen no estuvo aqui
-<<<<<<< HEAD
-=======
-Esto es el primer commit ....
->>>>>>> parent of ca0c89c (Actividad 7)
-=======
-Esto es el primer commit ....
->>>>>>> parent of ca0c89c (Actividad 7)
-=======
->>>>>>> parent of f45c3fa (Revert "Actividad 7")
