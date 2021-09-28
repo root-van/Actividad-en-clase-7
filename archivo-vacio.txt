@@ -3,4 +3,3 @@ Esto es el segundo commit....
 Ivan estuvo aqui
 Ivan estuvo aqui x2
 holii, Karen estuvo aqui. 
-Karen no estuvo aqui
